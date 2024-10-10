@@ -76,7 +76,12 @@
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=macos)
 
 ### 📊 &nbsp;GitHub Stats
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul7532&show_icons=true&theme=radical)
+<a href="https://github.com/rahul7532/rahul7532">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul7532&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/rahul7532/rahul7532">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul7532&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rahul's GitHub Stats" />
+</a>
 
 ### ✍️ &nbsp;Blog Posts
 - [How the Async Pipe in Angular Makes Life 10x Easier for Developer](https://medium.com/@rahul7532/how-the-async-pipe-in-angular-makes-life-10x-easier-for-developer-21a4aef2020a)
