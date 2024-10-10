@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! This is Rahul Verma 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+at+Bimaplan(YC21);Fullstack+Developer;Programmer;Web+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+at+Bimaplan(YC21);Fullstack+Developer;Problem+Solver;Web+Developer;" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul7532&label=Profile%20views&color=0e75b6&style=flat" alt="rahul7532" /> </p>
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **GenAI, Bot framework, Dialogflow, Golang, NLP, and other skills.**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://rahul7532.github.io/rahulverma.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rahul7532.github.io/rahulverma.github.io/)
 
 - 📝 I regularly write articles on (https://medium.com/@rahul7532)
 
 - 💬 Ask me about **System Design,Javascript, C++**
 
-- 📄 Check out my Resume here - [My Resume](https://drive.google.com/file/d/1QSI6-jBC45vsrP423yHfKK8SE00in3AT/view)
+- 📄 Check out my Resume here - [Resume](https://drive.google.com/file/d/1QSI6-jBC45vsrP423yHfKK8SE00in3AT/view)
 
 <img id="optionalstuff" alt="Night Coding" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47dcj7w35th4zqt7w360lqh6ey885vmyw03om06wl3&rid=giphy.gif&ct=g" width=400px align="right"/>
 
